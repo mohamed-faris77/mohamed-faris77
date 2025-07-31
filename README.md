@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Faris</h1>
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-faris77.mohamed-faris77" alt="Profile views" />
+</p>
+
 <h3 align="center">BCA Graduate | Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamed-faris77/mohamed-faris77/main/faris-banner.png" alt="Mohamed Faris GitHub Banner" width="800"/>
