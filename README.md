@@ -7,11 +7,6 @@
 <h3 align="center">BCA Graduate | Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
 
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamed-faris77/mohamed-faris77/main/faris-banner.png" alt="Mohamed Faris GitHub Banner" width="800"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
