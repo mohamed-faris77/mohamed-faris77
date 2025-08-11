@@ -6,7 +6,6 @@
 
 <h3 align="center">BCA Graduate | Aspiring Full Stack Developer | MERN Stack Enthusiast</h3>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -37,6 +36,10 @@
   A personal portfolio site built with HTML, CSS, Bootstrap.  
   🔗 [Live Site](https://porfoliofaris.netlify.app/)
 
+- 🚗 **[Gran Tourismo](https://github.com/mohamed-faris77/Gran-Tourismo)**  
+  A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
+  🔗 [Live Demo](https://grantourismo.netlify.app/)
+
 ---
 
 ### 🎓 Internships & Certifications
@@ -64,6 +67,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohmd-faris)  
 - 🌐 [Portfolio](https://porfoliofaris.netlify.app/)  
 - 💻 [GitHub](https://github.com/mohamed-faris77)
-
----
-
