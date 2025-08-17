@@ -51,16 +51,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-faris77&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-faris77&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 - 📧 Email: [mohmdfaris.k@gmail.com](mailto:mohmdfaris.k@gmail.com)  
