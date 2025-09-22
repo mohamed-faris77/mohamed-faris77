@@ -13,7 +13,7 @@
 - 🎓 BCA Graduate from **Acharya Institute of Graduate Studies**, Bangalore  
 - 💻 Passionate about **Full Stack Web Development**, especially with the **MERN stack**  
 - 🧠 Constantly learning and exploring new web technologies  
-- 🔍 Looking for **entry-level opportunities** in Frontend / Full Stack Development  
+- 🔍 Looking for **entry-level opportunities** in Full Stack Development  
 - 🛠️ Enjoy building real-world projects and improving code quality
 
 ---
@@ -34,11 +34,15 @@
 
 - 🌐 **[Portfolio Website](https://github.com/mohamed-faris77/Portfolio)**  
   A personal portfolio site built with HTML, CSS, Bootstrap.  
-  🔗 [Live Site](https://porfoliofaris.netlify.app/)
+  🔗 [Live Demo](https://porfoliofaris.netlify.app/)
 
 - 🚗 **[Gran Tourismo](https://github.com/mohamed-faris77/Gran-Tourismo)**  
   A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
   🔗 [Live Demo](https://grantourismo.netlify.app/)
+
+- 🩺 **[HUGS](https://github.com/mohamed-faris77/Hugs-app)**  
+  A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
+  🔗 [Live Demo](https://hugsapp.vercel.app/)
 
 ---
 
