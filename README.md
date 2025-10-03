@@ -40,9 +40,6 @@
   A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
   🔗 [Live Demo](https://grantourismo.netlify.app/)
 
-- 🩺 **[HUGS](https://github.com/mohamed-faris77/Hugs-app)**  
-  A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
-  🔗 [Live Demo](https://hugs-app.vercel.app/)
 
 ---
 
