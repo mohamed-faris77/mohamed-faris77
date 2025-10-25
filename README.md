@@ -20,10 +20,10 @@
 
 ### 🚀 Tech Stack
 
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, Typescript, React.js  
 - **Backend:** Node.js, Express.js, Java Spring Boot  
-- **Database:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Postman, VS Code, Netlify
+- **Database:** MongoDB, MySQL, PostgreSQL 
+- **Tools:** Git, GitHub, Postman, VS Code, Netlify, Vercel
 
 ---
 
