@@ -40,6 +40,14 @@
   A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
   🔗 [Live Demo](https://grantourismo.netlify.app/)
 
+- 🩺 **[Hugs](https://github.com/mohamed-faris77/Hugs)**  
+  A modern healthcare consultation platform designed to streamline mental health appointments, patient management, and administrative operations.  
+  🔗 [Live Demo](https://hugs-uzrd.vercel.app/)
+
+- 🛒 **[Famazon](https://github.com/mohamed-faris77/E-commerce-app)**  
+  A full-stack e-commerce web application with product management, secure authentication, order tracking, and admin controls.  
+  🔗 [Live Demo](https://famazon-nine.vercel.app/)
+
 
 ---
 
