@@ -34,7 +34,7 @@
 
 - 🌐 **[Portfolio Website](https://github.com/mohamed-faris77/Portfolio)**  
   A personal portfolio site built with HTML, CSS, Bootstrap.  
-  🔗 [Live Demo](https://porfoliofaris.netlify.app/)
+  🔗 [Live Demo](https://portfoliofaris.vercel.app/)
 
 - 🚗 **[Gran Tourismo](https://github.com/mohamed-faris77/Gran-Tourismo)**  
   A premium front-end car dealership website with a responsive UI, theme toggle, and interactive modals.  
